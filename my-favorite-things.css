@@ -1,0 +1,25 @@
+body{
+    color: #000;
+    
+}
+p{
+    background-color: aliceblue;
+    margin-left: 20%;
+}
+img{
+    height: 300px;
+    border:30px;
+    margin-left:300px;
+}
+h1{
+    margin-left: 20%;
+}
+ul{
+    margin-left: 20%;
+}
+ol{
+    margin-left: 20%;
+}
+top nav{
+    margin: 20%;
+}
